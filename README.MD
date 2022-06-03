@@ -1,2 +1,5 @@
 # Olá, Mundo!
-    Primeiro respositório criado.
+Por Francesco Castellano
+    Primeiro respositório criado. Baseado nas aulas do professor Gustavo Guanabara, do Curso em Vídeo.
+
+    Excelente didática!
