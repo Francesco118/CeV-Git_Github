@@ -17,3 +17,15 @@ Clone - clonar (copiar) repositório, para analisar e modificar sem que haja alt
 Fork
 Issue - problema encontrado no programa.
 Pull request - sugestão de solução para o problema relatado na Issue.
+
+
+Branches ou ramificações
+Branch master (repositório local) - ramo principal do projeto, versão comercial, corrente
+Commit (no repositorio local)
+Origin - repositório remoto
+Push - copiar tudo para a origin (github)
+
+Evite commitar sempre na MASTER!
+
+Após criar a essência do projeto, e quer criar novas funcionalidades? Crie e teste em outra BRANCH. 
+Se tudo está certo e funcionando bem: MERGE (aplicar as mudanças no ramo principal)
