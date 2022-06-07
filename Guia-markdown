@@ -1,0 +1,10 @@
+# Linguagem Markdown (linguagem de marcação)
+Outra linguagem de marcação (não programação). Tem como principal objetivo ser mais legível que HTML. Possui marcas mais discretas para realizar marcações. Algo similar com o que fazemos no WhatsApp: *negrito*, _itálico_, ~tachado~.
+Foco: simples de ler e fácil de converter para HTML.
+
+Onde é utilizada no Github?
+-READ.MD
+-Issues
+-Pull Requests
+
+**Negrito** ou __Negrito__
