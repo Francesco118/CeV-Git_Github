@@ -1,0 +1,19 @@
+O que é versionamento?
+Método para manter versões anteriores do software (que podem ser utilizadas como um backup, mesmo que desatualizadas), mas principalmente para controlar o desenvolvimento e modificações que são feitas constantemente num projeto. Tais alterações podem ocorrer por conta de planos que mudaram na cabeça do desenvolvedor, vontade do cliente, interação e integração entre diferentes frentes de um projeto maior, etc.
+
+Git
+É o programa utilizado direto na máquina; ele é responsável por salvar e registrar (de maneira organizada e útil) as alterações realizadas num projeto. Através dele o computador deixa os arquivos prontos para serem compartilhados no github, por exemplo.
+
+GitHub
+Rede social para desenvolvedores e programadores. É possível guardar seus projetos e arquivos, tanto para backup, como para compartilhamento com a comunidade. Assim é possível receber ajuda, e também prover auxílio àqueles que lá estão.
+
+Para que o produto do Git seja útil, e não apenas um arquivo salvo somente na sua máquina, é necessário utilizar o GitHub Desktop. Por meio dele é possível atualizar os repositórios, atualizar o que estiver na sua máquina (caso haja progresso registrado no Github, mas que não esteja na máquina); 
+
+Comandos e Ações que podem ser realizadas no GitHub
+Repositório - local para reunir os projetos desenvolvidos, e outros arquivos relacionados.
+Commit - realizar alteração no arquivo
+Push - enviar tais alterações para o servidor do githbub
+Clone - clonar (copiar) repositório, para analisar e modificar sem que haja alteração ou prejuízo na versão original.
+Fork
+Issue - problema encontrado no programa.
+Pull request - sugestão de solução para o problema relatado na Issue.
